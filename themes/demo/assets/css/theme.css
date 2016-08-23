@@ -7268,3 +7268,7 @@ header#layout-header .navbar-brand {
 .callout-success h4 {
   color: #3c763d;
 }
+
+.bg_img{
+  width: 100%;
+}
