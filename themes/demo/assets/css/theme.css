@@ -7268,3 +7268,30 @@ header#layout-header .navbar-brand {
 .callout-success h4 {
   color: #3c763d;
 }
+
+/*.bg_img{
+  width: 100%;
+}*/
+.banner{
+  width: 100%;
+  background: url("../themes/demo/assets/images/banner.png");
+  position: relative;
+}
+.banner_title1{
+  position: absolute;
+  left: 10%;
+  top: 20%;
+  color: #fff;
+}
+.banner_title2{
+  position: absolute;
+  left: 10%;
+  top: 40%;
+  color: #fff;
+}
+.banner_title3{
+  position: absolute;
+  left: 10%;
+  top: 60%;
+  color: #fff;
+}
